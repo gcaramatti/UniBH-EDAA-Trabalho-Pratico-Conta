@@ -17,4 +17,4 @@ Este projeto tem como finalidade explorar o conceito de TADs (Tipos Abstratos de
 <hr>
 <h2>Conclusão</h2>
 <p>Esse projeto foi desenvolvido de uma maneira simples e funcional, focado nas operações básicas de um caixa eletrônico</p>
-<p>Pode ser muito melhorado nos aspectos de gerenciamento de conta e tratamentos de funções, porém não vi a necessidade de elevar a complexidade do projeto a esse nível, uma vez que o projeto está orientado a objetos</p>
+<p>Pode ser muito melhorado nos aspectos de gerenciamento de conta e tratamentos de funções, porém não vi a necessidade de elevar a complexidade do projeto a esse nível, uma vez que o projeto trabalhando com objetos</p>
